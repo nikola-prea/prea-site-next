@@ -1,0 +1,25 @@
+import { defineMessages } from 'react-intl';
+
+export default defineMessages({
+  imprintHeading: 'Impressum',
+  imprintLawNotice: 'Angaben gemäß §5 TMG',
+  headquarter: 'Headquarter: ',
+  officeBerlin: 'Office Berlin: ',
+  phone: 'Telefon: ',
+  email: 'E-Mail: ',
+  management: 'Geschäftsführung',
+  commercialRegister: 'Handelsregister',
+  registryCourt: 'Registergericht',
+  VATNumber: 'VAT identification number',
+  permission: 'Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz',
+  technicalContact: 'Technischer Kontakt',
+  contact: 'Ansprechpartner: ',
+  pressContact: 'Pressekontakt',
+  fax: 'Fax: ',
+  marketingContact: 'Marketingkontakt',
+  disputeResolutionHeading: 'Streitschlichtung',
+  disputeResolutionParagraph1: 'Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: ',
+  disputeResolutionLink: 'https://ec.europa.eu/consumers/odr',
+  disputeResolutionDot: '.\n',
+  disputeResolutionParagraph2: 'Unsere E-Mail-Adresse finden Sie oben im Impressum.\n\n Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.',
+});

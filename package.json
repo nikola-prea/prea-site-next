@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.4.16",
+    "graphql": "^15.6.1",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "styled-components": "^5.3.1",
+    "svg-loaders-react": "^2.2.1"
   },
   "devDependencies": {
     "eslint": "7.32.0",

@@ -1,0 +1,7 @@
+query MyQuery {
+	allWpPost(filter: { date: { gte: "2021-01-14T0:0:0", lt: "2021-12-31T" } }) {
+		nodes {
+			date
+		}
+	}
+}
